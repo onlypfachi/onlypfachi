@@ -1,19 +1,26 @@
-# Code With Curiosity 
+<div align="center">
+  <h1>🚀 Code With Curiosity 🚀</h1>
+  <p>Hi there! I'm Tadiwa Pfachi, a software engineer with a passion for innovation and problem-solving.</p>
+  <p>🌱 Currently exploring JavaScript, PHP, Rust, and web design.</p>
+  <p>👨‍💻 Let's build amazing things together!</p>
+</div>
 
-**I'm a software engineer with a passion for building innovative solutions through JavaScript and PHP.** I'm constantly expanding my skillset, currently delving into the world of Rust and web design. 
+---
 
-**My Skills & Interests:**
+### 🛠️ Skills & Interests
+- **Languages:** JavaScript (Experienced), PHP (Experienced)
+- **Learning:** Go, Rust, Web Design
+- **Interests:** Collaboration, Open-source projects, Building amazing things!
 
-*  Languages: JavaScript (Experienced), PHP (Experienced)
-*  Learning: Go, Rust, Web Design
-*  Interests: Collaboration, Open-source projects, Building amazing things!
+### 💼 Looking for Collaboration
+- Have a cool project idea? Let's collaborate and make it happen!
+- Open to new opportunities and challenges.
 
-**Looking for Collaboration:**
+### 📫 Connect with me
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onlypfachi) (You're already here!)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tadiwapfachi/)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tadiwapfachi) (Optional)
 
-**I'm always looking for opportunities to collaborate on exciting projects with passionate individuals.** If you have a cool idea or need a helping hand, feel free to reach out!
+---
 
-** Connect with me:**
-
-* [GitHub](https://github.com/onlypfachi) (You're already here!)
-* [LinkedIn](https://www.linkedin.com/in/tadiwapfachi/)
-* [Twitter](https://twitter.com/tadiwapfachi) (Optional)
+Let's code with curiosity and creativity! 💻✨
