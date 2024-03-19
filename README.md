@@ -1,7 +1,13 @@
+<style>
+  body {
+    font-family: 'SF Pro', sans-serif;
+  }
+</style>
+
 <div align="center">
   <h1>🚀 Coding With Curiosity 🚀</h1>
   <p>Hey there! I'm Tadiwa Pfachi, a software engineer on a journey of exploration and innovation.</p>
-  <p>🌱 Currently diving deep into JavaScript, PHP, GO, and the art of web design.</p>
+  <p>🌱 Currently diving deep into JavaScript, PHP, Rust, and the art of web design.</p>
   <p>👨‍💻 Let's collaborate and create something extraordinary!</p>
 </div>
 
