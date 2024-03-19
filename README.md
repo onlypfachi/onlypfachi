@@ -1,4 +1,4 @@
-# Tadiwa - Code With Curiosity 
+# Code With Curiosity 
 
 **I'm a software engineer with a passion for building innovative solutions through JavaScript and PHP.** I'm constantly expanding my skillset, currently delving into the world of Rust and web design. 
 
