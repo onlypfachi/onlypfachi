@@ -4,7 +4,7 @@
 
 **My Skills & Interests:**
 
-*  Languages: JavaScript (Expert), PHP (Experienced)
+*  Languages: JavaScript (Experienced), PHP (Experienced)
 *  Learning: Go, Rust, Web Design
 *  Interests: Collaboration, Open-source projects, Building amazing things!
 
